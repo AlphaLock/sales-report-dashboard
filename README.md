@@ -31,7 +31,7 @@ Data was pre-processed in Power Query with the following steps:
 - DAX (basic level for measures)
 
 ## 🔗 Video Demo
-A screen recording showing the dashboard's features is available on [LinkedIn](https://www.linkedin.com/your-post-url-here).
+A screen recording showing the dashboard's features is available on [LinkedIn](https://www.linkedin.com/posts/richmondabake_powerbi-dataanalytics-dashboard-activity-7351223038886981636-9dnG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClmzuIB2rot2QSdNpYj81gezWSw5ZV61zE).
 
 ---
 
